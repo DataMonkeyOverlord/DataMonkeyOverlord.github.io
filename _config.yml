@@ -20,10 +20,10 @@ highlighter: rouge
 # Optional: Customize navigation
 nav_links:
   - title: "Home"
-    url: "/"
+    url: "https://datamonkeyoverlord.github.io/Home"
   - title: "About"
-    url: "/about/"
+    url: "https://datamonkeyoverlord.github.io/About/"
   - title: "Projects"
-    url: "/projects/"
+    url: "https://datamonkeyoverlord.github.io/Projects/"
   - title: "Blog"
     url: "/blog/" # Only if you're adding a blog
