@@ -21,9 +21,13 @@ highlighter: rouge
 nav_links:
   - title: "Home"
     url: "/"
-  - title: "About"
-    url: "https://datamonkeyoverlord.github.io/About/"
+  - title: "About Me"
+    url: "/about/"
   - title: "Projects"
-    url: "https://datamonkeyoverlord.github.io/Projects/"
-  - title: "Blog"
-    url: "/blog/" # Only if you're adding a blog
+    url: "/projects/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Contact"
+    url: "/contact/"
+  - title: "Weekly Status"
+    url: "/weekly-status/"
