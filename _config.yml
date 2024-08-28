@@ -19,15 +19,13 @@ highlighter: rouge
 
 # Optional: Customize navigation
 nav_links:
-  - title: "Home"
-    url: "/"
   - title: "About Me"
     url: "/about/"
+  - title: "Contact"
+    url: "/contact/"  
   - title: "Projects"
     url: "/projects/"
   - title: "Publications"
     url: "/publications/"
-  - title: "Contact"
-    url: "/contact/"
   - title: "Weekly Status"
     url: "/weekly-status/"
