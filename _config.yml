@@ -20,7 +20,7 @@ highlighter: rouge
 # Optional: Customize navigation
 nav_links:
   - title: "Home"
-    url: "https://datamonkeyoverlord.github.io/Home"
+    url: "/"
   - title: "About"
     url: "https://datamonkeyoverlord.github.io/About/"
   - title: "Projects"
