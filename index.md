@@ -1,14 +1,3 @@
----
-title: DataMonkeyOverlord's Personal Website
-description: My journey through data science and beyond.
-baseurl: ""
-url: "https://DataMonkeyOverlord.github.io"
-
-# Social links
-twitter_username: your_twitter_handle
-github_username: DataMonkeyOverlord
-linkedin: your_linkedin_profile
-
 # Theme settings
 theme: minima
 plugins:
