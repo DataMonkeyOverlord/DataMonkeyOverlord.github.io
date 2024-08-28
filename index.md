@@ -9,15 +9,14 @@ Welcome to my professional portfolio. Here, you'll discover insights into my wor
 
 ---
 
-<nav class="top-nav">
-  <ul>
-    <li><a href="{{ "/" | relative_url }}">Home</a></li>
-    <li><a href="{{ "/about/" | relative_url }}">About Me</a></li>
-    <li><a href="{{ "/projects/" | relative_url }}">Projects</a></li>
-    <li><a href="{{ "/publications/" | relative_url }}">Publications</a></li>
-    <li><a href="{{ "/contact/" | relative_url }}">Contact</a></li>
-  </ul>
-</nav>
+## Navigation
+
+- [About Me](/about/)
+- [Projects](/projects/)
+- [Publications](/publications/)
+- [Contact](/contact/)
+
+---
 
 ## 👤 About Me
 
