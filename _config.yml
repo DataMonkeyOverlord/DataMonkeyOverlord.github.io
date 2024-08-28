@@ -1,3 +1,29 @@
-theme: jekyll-theme-minimal
-title: DataMonkey's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: DataMonkeyOverlord's Personal Website
+description: My journey through data science and beyond.
+baseurl: ""
+url: "https://DataMonkeyOverlord.github.io"
+
+# Social links
+twitter_username: your_twitter_handle
+github_username: DataMonkeyOverlord
+linkedin: your_linkedin_profile
+
+# Theme settings (choose your theme)
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
+
+# Optional: Customize navigation
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Blog"
+    url: "/blog/" # Only if you're adding a blog
