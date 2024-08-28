@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Portfolio
 ---
 
 # 🎓 Welcome to A's Professional Portfolio
