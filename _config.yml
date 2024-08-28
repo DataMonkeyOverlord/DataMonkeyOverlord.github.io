@@ -19,8 +19,8 @@ highlighter: rouge
 
 # Optional: Customize navigation
 nav_links:
-  - title: "About Me"
-    url: "/About Me/"
+  - title: "About"
+    url: "/About/"
   - title: "Contact"
     url: "/contact/"  
   - title: "Projects"
