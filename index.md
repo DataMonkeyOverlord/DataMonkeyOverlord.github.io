@@ -11,10 +11,10 @@ Welcome to my professional portfolio. Here, you'll discover insights into my wor
 
 ## Navigation
 
-- [About Me](/about/)
-- [Projects](/projects/)
-- [Publications](/publications/)
-- [Contact](/contact/)
+- [About Me](DataMonkeyOverlord.github.io/about/)
+- [Projects](DataMonkeyOverlord.github.io/projects/)
+- [Publications](DataMonkeyOverlord.github.io/publications/)
+- [Contact](DataMonkeyOverlord.github.io/contact/)
 
 ---
 
