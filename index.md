@@ -3,19 +3,19 @@ layout: default
 title: Home
 ---
 
-# 🎓 Welcome to [Your Name]'s Professional Portfolio
+# 🎓 Welcome to A's Professional Portfolio
 
-Welcome to my professional portfolio. Here, you'll discover insights into my work, achievements, and contributions in [Your Field or Industry].
+Welcome to my professional portfolio. Here, you'll discover insights into my work, achievements, and contributions in Data Science.
 
 ---
 
 ## 👤 About Me
 
-With over **[Years of Experience] years** of experience in **[Relevant Industries or Fields]**, I am driven by a passion for [Brief Description of Your Expertise or Mission]. My focus areas include:
+With over **5 years** of experience in **Analytics**, I am driven by a passion for Data Science and Data Engineering. My focus areas include:
 
-- **Expertise:** [List Key Skills or Areas of Expertise]
-- **Education:** [Your Degrees and Institutions]
-- **Current Role:** [Your Job Title and Organization]
+- **Expertise:** Python,C++ ,Java 
+- **Education:** B.S. Applied Computer Science 
+- **Current Role:** Data Scientist
 
 > **Mission:** "Your mission statement or personal motto."
 
