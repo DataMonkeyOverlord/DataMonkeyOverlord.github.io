@@ -5,7 +5,7 @@ title: Publications
 
 ## 📚 Publications, Articles, and Patents 
 
-### **[Parts Sorting System]([link-to-publication1](https://patents.justia.com/patent/11861301))**
+### **[Parts Sorting System - Patent]([link-to-publication1](https://patents.justia.com/patent/11861301))**
 *Published in [Publication Venue]*  
 A method, apparatus, and computer system for grouping parts. Sets of unigrams are generated from text in part lists for parts in a family of parts using natural language processing, wherein a set of unigrams in the sets of unigrams represent components for a part in the parts. A document term matrix is created using the sets of unigrams. The document term matrix describes a presence of components in the parts. A number of unigrams from the document term matrix that has occurrences in the document term matrix that are greater than a common design threshold is removed. Removing the number of unigrams from the document term matrix forms a processed document term matrix. The common design threshold identifies a level of occurrence not useful in differentiating the parts from each other. The parts are clustered into groups using the processed document term matrix..
 
