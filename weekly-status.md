@@ -8,8 +8,8 @@ title: Weekly Status Update
 ## What Did I Do Last Week?
 
 - **Completed:** 1) Completed Proposal
--                2) I was reading documentation on Azure sql storage spin up
--                3) Setting up my Github Website 
+                 2) I was reading documentation on Azure sql storage spin up
+                 3) Setting up my Github Website 
 - **Progress:** I am currently still working on my website, and I was able to read the documentation to setup the storage.
 
 ## What Do I Plan to Do This Week?
