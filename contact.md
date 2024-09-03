@@ -12,6 +12,6 @@ Please feel free to reach out:
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 - **GitHub:** [https://github.com/DataMonkeyOverlord.github.io]
 
-> **"If you have any questions or wish to collaborate on anything please feel free to reach out!
+> **"If you have any questions or wish to collaborate on anything please feel free to reach out!            
 > 
 >                     Let's create something amazing together!"**
