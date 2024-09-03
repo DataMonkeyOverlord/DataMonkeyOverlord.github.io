@@ -20,11 +20,12 @@ highlighter: rouge
 nav_links:
   - title: "About"
     url: "/About/"
-  - title: "Contact"
-    url: "/contact/"  
+  - title: "Weekly Status"
+    url: "/weekly-status/" 
   - title: "Projects"
     url: "/projects/"
   - title: "Publications"
     url: "/publications/"
-  - title: "Weekly Status"
-    url: "/weekly-status/"
+  - title: "Contact"
+    url: "/contact/" 
+
