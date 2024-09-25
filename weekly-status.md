@@ -102,7 +102,7 @@ Thank you for reading this week's update. Feel free to reach out if you have any
 
 ## Are There Any Impediments in My Way?
 
-- **Challenges:** None
+- **Challenges:** Alot of Data is in foreign languages.. looking at data in english is quite limiting.
 - **Requests:** None
 
 ## Reflection on the Process
