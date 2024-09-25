@@ -33,6 +33,7 @@ title: Weekly Status Update
 ![Image](link-to-image-if-any) <!-- Optional: Add images if applicable -->
 
 Thank you for reading this week's update. Feel free to reach out if you have any questions or feedback!
+
 # 🗓️ Weekly Status Update - [9/17]
 
 ## What Did I Do Last Week?
@@ -68,5 +69,48 @@ Thank you for reading this week's update. Feel free to reach out if you have any
 ---
 
 ![Image](link-to-image-if-any) <!-- Optional: Add images if applicable -->
+
+Thank you for reading this week's update. Feel free to reach out if you have any questions or feedback!
+# 🗓️ Weekly Status Update - [9/24]
+
+## What Did I Do Last Week?
+
+- **Completed:** 
+  1) Searched for Food Insecurity Data (Main Sources are Kaggle, Humdata)
+     - World Food Programme 
+       - Global Food Prices 
+       
+     - USAid.gov 
+     - Foodbank of the word dataset : 
+          - Crop Yields Dataset
+          - Livestock Yield Dataset   
+          - Farm Worker Dataset
+            
+  3) Installed my azure studio.
+  4) Currently Working on Data Cleansing and Normalization
+- **Progress:** The datasets seem to be pretty sparse for what i am attempting to do. I am still working on cleaning and normalizing the datasets. 
+   There appear to be many low quality data attributes given the lack of overlapping attibutes outside of year,country,city,major food category. 
+   
+
+## What Do I Plan to Do This Week?
+
+- **Upcoming Tasks:**
+  COntinue Data Normalization Tasks along 
+  Perform preliminary exploratory data analysis 
+  
+- **Focus Areas:** Continued Data Normalization work
+
+## Are There Any Impediments in My Way?
+
+- **Challenges:** None
+- **Requests:** None
+
+## Reflection on the Process
+
+- **What Went Well:** Finding initial datasets to aggregate to use in my visualization and modeling efforts 
+- **Improvements:** i will continue to search for additional data sources even as i work through the normalization efforts in the hope of producing a better output.
+- **Lessons Learned:** cleaning datasets isnt fun.
+
+---
 
 Thank you for reading this week's update. Feel free to reach out if you have any questions or feedback!
