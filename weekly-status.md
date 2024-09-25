@@ -79,6 +79,11 @@ Thank you for reading this week's update. Feel free to reach out if you have any
   1) Searched for Food Insecurity Data (Main Sources are Kaggle, Humdata)
      - World Food Programme 
        - Global Food Prices 
+     - IPC (Integrated Food Security Phase Classification) 
+           - Provides current state of Nations Food Security Classfication
+               -  (Chronic Food Insecurity Classfication)
+               -  (Acute Food Insecurity Classfication)
+               -  (Acute Malnutrition Classification) 
        
      - USAid.gov 
      - Foodbank of the word dataset : 
