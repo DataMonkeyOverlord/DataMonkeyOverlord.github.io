@@ -119,3 +119,50 @@ Thank you for reading this week's update. Feel free to reach out if you have any
 ---
 
 Thank you for reading this week's update. Feel free to reach out if you have any questions or feedback!
+# 🗓️ Weekly Status Update - [10/01]
+
+## What Did I Do Last Week?
+
+- **Completed:** 
+  1) Cleaned Primary Dataset
+  2) Performed preliminary data exploration 
+     - Removed 20,000 Nan / non useful observations
+     - identified abnormal data such as years with - values
+     - normalized nan data with median values
+     - clipped extreme outlier data
+  3) Read Documentation on Azure DataLake Storage Setup
+  4) Currently working on alternative data smoothing, and possibly binning values across the dataset.
+  5) 
+- **Progress:** Ive reduced many unneeded values out of my dataset. The dataset comprised roughly 25 tables that contained relevant data. 
+After cleaning i ended up dropped many of the tables due to the inability to reconcile many of the obeservations and or not providing data that would be contiguious through
+the period of the study. This resulted in roughly 9 dataframes that would be combined to form one of the main tables that will be moved into the data lake. 
+This dataset was reduced from 130,000 observations down to 15,500 observations.  
+The remaining supporting tables require further cleaning but are pretty close to completion as well. The remaining tables are roughly 2.2 million observations, which will provide me with 
+additional data to support my visualizations.    
+
+## What Do I Plan to Do This Week?
+
+- **Upcoming Tasks:**
+  Perform Datatransformation on the larger datasets  
+  I will then create the tables in Azure SQL that i want to load the data into. 
+  This will offer better control and checks on future entries or addition into the tables. 
+  For example adding observations for columns that will not allow nulls will be rejected. 
+   
+
+- **Focus Areas:** Continued Data Normalization work
+
+## Are There Any Impediments in My Way?
+
+- **Challenges:** None
+- **Requests:** None
+
+## Reflection on the Process
+
+- **What Went Well:** Cleaning the primary dataset went well
+- **Improvements:** Transforming Observations into useable observations is critical to enlarging a dataset without causing duplications.
+- **Lessons Learned:** Not all Datasets are created equal
+
+---
+
+Thank you for reading this week's update. Feel free to reach out if you have any questions or feedback!
+
