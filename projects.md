@@ -12,6 +12,7 @@ their relationship to a nations income and crop production) and its impact aroun
 simultaneously learning about Azure Cloud resources, ETL processes, as well as, learn and implement
 the fundamental functions of data visualization leveraging Power Bi. 
 
+---
 
 ### **[PCM - Standards Pricing]**
 *Technologies Used: [Technology Stack]*  
