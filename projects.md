@@ -5,6 +5,14 @@ title: Projects
 
 # 🚀 Featured Projects
 
+### **[Global Hunger Visualization Project - Power BI]**
+*Technologies Used: [Power BI,MySQL Workbench,Python]*  
+This project’s goal was to learn about global hunger data (starvation, malnutrition levels and 
+their relationship to a nations income and crop production) and its impact around the world while
+simultaneously learning about Azure Cloud resources, ETL processes, as well as, learn and implement
+the fundamental functions of data visualization leveraging Power Bi. 
+
+
 ### **[PCM - Standards Pricing]**
 *Technologies Used: [Technology Stack]*  
 Developed Pricing Classification Model to identify contracting anomalies and pricing risks across 80% of parts within supply chain. 
