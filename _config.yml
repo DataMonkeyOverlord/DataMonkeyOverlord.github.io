@@ -24,8 +24,8 @@ nav_links:
     url: "/weekly-status/" 
   - title: "Projects"
     url: "/projects/"
-  - title: "Publications"
-    url: "/publications/"
+  - title: "Project_Report"
+    url: "/Report/"
   - title: "Contact"
     url: "/contact/" 
 
