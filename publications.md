@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Publications
+title: Project Report and Findings
 ---
 
-## 📚 Publications, Articles, and Patents 
+## 📚 Project Report 
 
 ### **[Project - Global Hunger Visualization Project ]**
 Abdullah Adlouni
